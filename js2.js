@@ -1,10 +1,14 @@
 let radio = prompt("ingrese el valor del radio de la circunferencia")
 
-function calculoArea(radio){
+function calculoArea(){
    let area = Math.PI * Math.pow(radio,radio)
    document.write("el area de la circunferencia es de " + area);
 }
 
-calculoArea(radio);
+function calculoPerimetro(){
+   let perimetro = 2 * Math.PI * radio;
+   document.write("<br>el perimetro de la circunferencia es de " + perimetro);
+}
 
-perimetro = 2 * PI * radio 
+calculoArea();
+calculoPerimetro();
