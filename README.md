@@ -27,6 +27,21 @@ o ‘m’ para la multiplicación y ‘D’ o ‘d’ para la división.
 6. Realizar un programa que, dado un número entero, visualice en pantalla si es par o impar. 
 En caso de que el valor ingresado sea 0, se debe mostrar “el número no es par ni impar”. 
 
+7. Escriba un programa en el cual se ingrese un valor límite positivo, y a continuación 
+solicite números al usuario hasta que la suma de los números introducidos supere el 
+límite inicial. 
+
+8. Escribir un programa que lea números enteros hasta teclear 0 (cero). Al finalizar el 
+programa se debe mostrar el máximo número ingresado, el mínimo, y el promedio de 
+todos ellos. 
+
+
+9. Realizar un programa que pida una frase y el programa deberá mostrar la frase con un 
+espacio entre cada letra. La frase se mostrara así: H o l a. Nota: recordar el 
+funcionamiento de la función Substring(). 
+
+10. Escribir una función flecha que reciba una palabra y la devuelva al revés. 
+
 14. Crear un objeto libro que contenga las siguientes propiedades: ISBN, Título, Autor, 
 Número de páginas. Crear un método para cargar un libro pidiendo los datos al usuario 
 y luego informar mediante otro método el número de ISBN, el título, el autor del libro y el 
