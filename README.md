@@ -42,6 +42,12 @@ funcionamiento de la función Substring().
 
 10. Escribir una función flecha que reciba una palabra y la devuelva al revés. 
 
+11. Escribir una función que reciba un String y devuelva la palabra más larga. 
+String Ejemplo: “Guia de JavaScript”
+Resultado esperado : “JavaScript”
+12. Escribir una función flecha de JavaScript que reciba un argumento y retorne el tipo de 
+dato
+
 14. Crear un objeto libro que contenga las siguientes propiedades: ISBN, Título, Autor, 
 Número de páginas. Crear un método para cargar un libro pidiendo los datos al usuario 
 y luego informar mediante otro método el número de ISBN, el título, el autor del libro y el 
