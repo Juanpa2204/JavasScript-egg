@@ -1,6 +1,3 @@
-//const numero1 = document.querySelector(".numero1");
-//const numero2 = document.querySelector(".numero2");
-//const mensaje = document.querySelector(".resultado").toLowerCase();
 
 numero1= prompt("ingrese un numero");
 numero2 = prompt("ingrese otro numero")
