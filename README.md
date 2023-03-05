@@ -48,6 +48,9 @@ Resultado esperado : “JavaScript”
 12. Escribir una función flecha de JavaScript que reciba un argumento y retorne el tipo de 
 dato
 
+13. Crear un objeto persona, con las propiedades nombre, edad, sexo ('H' hombre, 'M' mujer, 
+'O' otro), peso y altura. A continuación, muestre las propiedades del objeto JavaScript
+
 14. Crear un objeto libro que contenga las siguientes propiedades: ISBN, Título, Autor, 
 Número de páginas. Crear un método para cargar un libro pidiendo los datos al usuario 
 y luego informar mediante otro método el número de ISBN, el título, el autor del libro y el 
